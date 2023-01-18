@@ -1,0 +1,4 @@
+website:
+  sidebar:
+    contents:
+      - Horizontal Plots and Key Grid.ipynb
