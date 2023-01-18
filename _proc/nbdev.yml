@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "JonnyDabestPlots"
+  site-url: "https://JAnns98.github.io/JonnyDabestPlots"
+  description: "Dabest plots created by Jonathan Anns"
+  repo-branch: main
+  repo-url: "https://github.com/JAnns98/JonnyDabestPlots"
